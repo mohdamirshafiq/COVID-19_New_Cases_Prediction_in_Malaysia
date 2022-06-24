@@ -107,9 +107,9 @@ The project is about predicting the number of emerging COVID-19 new cases daily 
 
 - Training process plotted using TensorBoard:
 
-![](images/Training loss_TensorBoard.png)
+![](images/Training_loss_TensorBoard.png)
 
-![](images/Training mape_TensorBoard.png)
+![](images/Training_mape_TensorBoard.png)
 
 - Based on the result of the model training, MAPE readings are very bad but MSE reading seems quite stable. The MAPE show the reading fluctuates a lot. This can be observed on the TensorBoard.
 
